@@ -1,0 +1,13 @@
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\bin\Debug\SistemPakarMata.exe
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\bin\Debug\SistemPakarMata.pdb
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\bin\Debug\SistemPakarMata.xml
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.FormPenyakit.resources
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.Resources.resources
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.vbproj.GenerateResource.Cache
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.exe
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.xml
+c:\users\bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.pdb
+C:\Users\Bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.FormGejala.resources
+C:\Users\Bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.FormRules.resources
+C:\Users\Bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.FormKonsultasi.resources
+C:\Users\Bruvwev\documents\visual studio 2010\Projects\SistemPakarMata\SistemPakarMata\obj\x86\Debug\SistemPakarMata.FormMenu.resources
